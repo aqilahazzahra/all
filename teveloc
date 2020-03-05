@@ -29,9 +29,7 @@ http://id2.indostreamingtv.com/live/antv/index.m3u8
 http://rr2.dens.tv/s/s102/index2.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_small1.png" group-title="INDONESIA",INDOSIAR+
-http://62.210.246.131:25461/live/gxfgss/HHVVPP/6764.ts?token=HhVYAkpZQF8XAVUBVQMKCQRQVVMBXVZQBgcAUAJRUwIAAgIFD1RVBg0TThtFQ0pVUlk6X1QaWVdSBAxPFRBFBBdoWQcbC0BUAwlTAQMVFBJHXQhTEgJSVF0BCVIEVgNQSRVACl0TWEcEBFoNDhUUElZMEVNCVgINOlZdFV4GU0NfWUUPVR1ACltuBlxbVlZUEQ5HBhIUQQgWQhpZWRBaDUkVUgpNQwMRUBNYGwcFCAgRGEdVX00NFRdLGlkVLHJDSRVVG01UDBZcXgwbDBVMQxEYR19DZxEEFkZKBlYIUxNHDRJTGx1ACFRJPVpZWVZVUEAMWV5LQVtHAxpPFQhZDwxDXxFmQQsBFwtACwUGDBJO
-
-
+https://delivery.macan.live/stream/id_indosiar/index.m3u8?token=Lse1lRx5&v=20200202
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_small1.png" group-title="INDONESIA",INDOSIAR
 hhttp://id1.indostreamingtv.com/live/indosiar/index.m3u8
