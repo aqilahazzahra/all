@@ -103,7 +103,9 @@ https://livetvhooq.akamaized.net/d47264e2fe8f43848fb79b43915fb298/ap-southeast-1
 
 #https://etslive-2-vidio-com.akamaized.net/exp=1582548694~acl=/hls-p/ingest_733_*/*~hmac=90057adc75779baf47e1d4cc649c2bbb9cc1eec31356a619a679228f372e0bb6/hls-p/ingest_733_720p/index.m3u8
 #EXTINF:0 tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_small1.png" group-title="INDONESIA",TRANSTV+
-https://delivery.macan.live/stream/id_transtv/index.m3u8?token=Lse1lRx5&v=20200202
+https://etslive-2-vidio-com.akamaized.net/exp=1583845723~acl=/hls-p/ingest_733_*/*~hmac=7f7eb17de8931a3f8786fcf96fb843d105e7edb481b3ba031cc68240a87a6f4d/hls-p/ingest_733_720p/index.m3u8
+
+#https://delivery.macan.live/stream/id_transtv/index.m3u8?token=Lse1lRx5&v=20200202
 #EXTINF:0 tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_small1.png" group-title="INDONESIA",TRANS TV HD
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w670976066_b384000_sleng.m3u8
 #EXTINF:0 tvg-logo="https://www.useetv.com/assets/images/channel/logo_rtv_small1.png" group-title="INDONESIA",RTV
