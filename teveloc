@@ -3,12 +3,16 @@
 
 ##############channel tv#############
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/G8t0fsBW/RCTI.png" group-title="INDONESIA",RCTI
-https://linier.rctiplus.id/live/rcti_720p.m3u8?auth_key=1644991929-0-0-09d1fb589ba971c12be21172d9ae095c
+https://linier.akamaized.net/live/eds/RCTI_Logo/sa_hls/RCTI_Logo-avc1_1000000=5-mp4a_64000=2.m3u8
+
+
+#https://linier.rctiplus.id/live/rcti_720p.m3u8?auth_key=1644991929-0-0-09d1fb589ba971c12be21172d9ae095c
 
 #https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/G8t0fsBW/RCTI.png" group-title="INDONESIA",RCTI SD
-https://linier.rctiplus.id/live/rcti_720p.m3u8?auth_key=1644991929-0-0-09d1fb589ba971c12be21172d9ae095c
 
+
+https://linier.akamaized.net/live/eds/RCTI_Logo/sa_hls/RCTI_Logo-avc1_2000000=6-mp4a_64000=2.m3u8
 #https://live.rctiplus.id/rctiplus/rcti_manifest.m3u8?vhost=__defaultVhost__
 #https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/G8t0fsBW/RCTI.png" group-title="INDONESIA",RCTI+
