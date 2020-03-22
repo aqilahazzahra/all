@@ -29,7 +29,7 @@ http://210.210.155.35/qwr9ew/s/s102/01.m3u8
 http://rr2.dens.tv/s/s102/index2.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_small1.png" group-title="INDONESIA",INDOSIAR
-https://etslive-2-vidio-com.akamaized.net/exp=1584843304~acl=/hls-p/ingest_205_*/*~hmac=08e5c954f261198efdad5f770da8853a12ed7d6cf7b19e99b0e4ceb533ad88ff/hls-p/ingest_205_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1584858974~acl=/hls-p/ingest_205_*/*~hmac=91becea7637251b2ca8b9d7944c9e80b8a2ff73d6e9c7b0defe71865fc9450be/hls-p/ingest_205_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_small1.png" group-title="INDONESIA",INDOSIAR+
 https://iptvhit.live/zalogitv/test/1234/191
@@ -38,14 +38,14 @@ https://iptvhit.live/zalogitv/test/1234/191
 http://id1.indostreamingtv.com/live/indosiar/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png" group-title="INDONESIA",SCTV
-https://etslive-2-vidio-com.akamaized.net/exp=1584843333~acl=/hls-b/ingest_204_*/*~hmac=065ef27100320abef0044ea60413d43a33c9c821e58e4aa4183590242bfd269e/hls-b/ingest_204_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1584858976~acl=/hls-p/ingest_204_*/*~hmac=68cb3152b455087b8543c3d48d15c7a500984f2e80ab315bd6bef6a3749c2e3c/hls-p/ingest_204_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png" group-title="INDONESIA",SCTV+
 https://iptvhit.live/zalogitv/test/1234/190
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png" group-title="INDONESIA",SCTV
 http://id1.indostreamingtv.com/live/sctv/index.m3u8
 #EXTINF:0 tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png" group-title="INDONESIA",TRANS 7
-https://etslive-2-vidio-com.akamaized.net/exp=1584843358~acl=/hls-p/ingest_734_*/*~hmac=d21497293c27d2eb127e7f82e50d87cdc3e4e0cb8a96036f0878f9d14fba2b92/hls-p/ingest_734_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1584858971~acl=/hls-p/ingest_734_*/*~hmac=a7f694569d7f74fb7aa21a6a928688872f7aefd2a51c527480decfa4c83eb039/hls-p/ingest_734_720p/index.m3u8
 
 #EXTINF:0 tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png" group-title="INDONESIA",TRANS 7+
 https://iptvhit.live/zalogitv/test/1234/187
