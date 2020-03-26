@@ -17,15 +17,15 @@ https://vcdnjt.useetv.com/joss/15/antv/chunklist_w802902289_b894100_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_small1.png" group-title="INDONESIA",INDOSIAR
 https://vcdnjt.useetv.com/joss/15/indosiar/chunklist_w905911246_b894100_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_small1.png" group-title="INDONESIA",INDOSIAR+
-https://etslive-2-vidio-com.akamaized.net/exp=1585158138~acl=/hls-p/ingest_205_*/*~hmac=a6b0acd7525bf123e53eaa44f5762a1b91644d4aad4510773d3648ca7c02f11a/hls-p/ingest_205_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1585201205~acl=/hls-p/ingest_205_*/*~hmac=cb954d4a4249a0b67fb0a8fb32f5ac27e32d77127a0564c9244880a93fd1cd27/hls-p/ingest_205_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png" group-title="INDONESIA",SCTV
 https://vcdnjt.useetv.com/joss/15/sctv/chunklist_w1719443711_b1344100_sleng.m3u8?enc=0N5C6Juxg8p-e8bgcdk2MQ&exp=1584926787
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png" group-title="INDONESIA",SCTV+
-https://etslive-2-vidio-com.akamaized.net/exp=1585158165~acl=/hls-p/ingest_204_*/*~hmac=6ac87c9a478030f3621a9b29bb72c159f340b9b37dc3caec13ad71d0c6b26348/hls-p/ingest_204_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1585201221~acl=/hls-p/ingest_204_*/*~hmac=09fdd25f86ffde44a274a221fc194495b9621bce605ad140aca6238917fb26c2/hls-p/ingest_204_720p/index.m3u8
 #EXTINF:0 tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png" group-title="INDONESIA",TRANS 7
 https://vcdnjt.useetv.com/joss/15/trans7/chunklist_w310572254_b1344100_sleng.m3u8?enc=hn3RkAP5sUZjsy2_wyXHrw&exp=1584926789
 #EXTINF:0 tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png" group-title="INDONESIA",TRANS 7+
-https://etslive-2-vidio-com.akamaized.net/exp=1585140254~acl=/hls-p/ingest_734_*/*~hmac=ff13ff062a2746b754616c02eb3fb8baaa0f41a3bc14e4a434fc8765f3fac2a1/hls-p/ingest_734_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1585201220~acl=/hls-p/ingest_734_*/*~hmac=ce2afc2dd4be3d7290d852b18eaca535c7c6ccf7c6d2a34789e9dd35ecda9c03/hls-p/ingest_734_720p/index.m3u8
 #https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1144427985_b384000_sleng.m3u8
 #EXTINF:0 tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png" group-title="INDONESIA",TRANS 7 HD
 #https://video.detik.com/trans7/smil:trans7.smil/chunklist_w140890010_b384000_sleng.m3u8
@@ -51,7 +51,7 @@ https://vcdnjt.useetv.com/joss/15/kompastv/chunklist_w1736125547_b894100_sleng.m
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kompastv_small.png" group-title="INDONESIA",KOMPAS TV
 http://210.210.155.35/session/69927436-1aa3-11ea-a103-acecbc14f551/qwr9ew/s/s104/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kompastv_small.png" group-title="INDONESIA",KOMPAS TV+
-https://etslive-2-vidio-com.akamaized.net/exp=1585158187~acl=/hls-b/ingest_874_*/*~hmac=1389b2f7ddce99433118b64353e6c76204bdbcdaf6d6cd14cbb516181546dd8f/hls-b/ingest_874_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1585201268~acl=/hls-p/ingest_874_*/*~hmac=b29a8ffa66eb032d395838ab5f0cf116f5ebf88ead875d436de36f2e95d31faa/hls-p/ingest_874_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvone_small1.png" group-title="INDONESIA",TV ONE
 https://vcdnjt.useetv.com/joss/15/tvone/chunklist_w654176452_b894100_sleng.m3u8?enc=DQtgqCUfAnld0z8znQDBRg&exp=1584927292
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvone_small1.png" group-title="INDONESIA",TV ONE+
