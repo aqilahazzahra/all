@@ -20,16 +20,16 @@ https://iptvhit.live/tanjungselamat/alasi/panga/287
 https://vcdnjt.useetv.com/joss/15/indosiar/chunklist_w1051935008_b894100_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_small1.png" group-title="INDONESIA",INDOSIAR+
 #https://iptvhit.live/tanjungselamat/alasi/panga/277
-https://etslive-2-vidio-com.akamaized.net/exp=1585743717~acl=/hls-p/ingest_205_*/*~hmac=9f6d0d12a8acf59c68738ae5eefaba682a67b4bc4d255c3bd49e0fccf93df032/hls-p/ingest_205_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1585755739~acl=/hls-p/ingest_205_*/*~hmac=5e3a8950b6783f3e5d72383133e0d64e86d7001f66d0058298db2d73d5519c8d/hls-p/ingest_205_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png" group-title="INDONESIA",SCTV
 https://vcdnjt.useetv.com/joss/15/sctv/chunklist_w1719443711_b1344100_sleng.m3u8?enc=0N5C6Juxg8p-e8bgcdk2MQ&exp=1584926787
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png" group-title="INDONESIA",SCTV+
-https://etslive-2-vidio-com.akamaized.net/exp=1585743753~acl=/hls-p/ingest_204_*/*~hmac=b57a8c1099a6c174103321c25dbecebb069164e894be7be369fa3b60ad56b076/hls-p/ingest_204_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1585755811~acl=/hls-p/ingest_204_*/*~hmac=6c38d2263ff3e1e06ed9f179693a6002047cc4ea9660372fa568244b826cf753/hls-p/ingest_204_720p/index.m3u8
 #https://iptvhit.live/tanjungselamat/alasi/panga/275
 #EXTINF:0 tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png" group-title="INDONESIA",TRANS 7
 https://vcdnjt.useetv.com/joss/15/trans7/chunklist_w310572254_b1344100_sleng.m3u8?enc=hn3RkAP5sUZjsy2_wyXHrw&exp=1584926789
 #EXTINF:0 tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png" group-title="INDONESIA",TRANS 7+
-https://etslive-2-vidio-com.akamaized.net/exp=1585743761~acl=/hls-p/ingest_734_*/*~hmac=7e9abc98724b6c2a8698dd8712a358b774434daf495fc29d640840a7bb9cf999/hls-p/ingest_734_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1585755851~acl=/hls-p/ingest_734_*/*~hmac=58b41af83868e76de98835026d1a57fd1d3e7a626752faae46b25c4172cb7c1f/hls-p/ingest_734_720p/index.m3u8
 #https://iptvhit.live/tanjungselamat/alasi/panga/276
 #https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1144427985_b384000_sleng.m3u8
 #EXTINF:0 tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png" group-title="INDONESIA",TRANS 7 HD
@@ -56,7 +56,7 @@ https://vcdnjt.useetv.com/joss/15/kompastv/chunklist_w1736125547_b894100_sleng.m
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kompastv_small.png" group-title="INDONESIA",KOMPAS TV
 http://210.210.155.35/session/69927436-1aa3-11ea-a103-acecbc14f551/qwr9ew/s/s104/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kompastv_small.png" group-title="INDONESIA",KOMPAS TV+
-https://etslive-2-vidio-com.akamaized.net/exp=1585743760~acl=/hls-p/ingest_874_*/*~hmac=2e59446723ea00d5af6c55d8ff4f83e06ce623177a4c8141c8ee9811cd3bc91b/hls-p/ingest_874_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1585755875~acl=/hls-p/ingest_874_*/*~hmac=94f68f8d4db553703e0decaa2d87f811412f24db84999a8f30d6e06849c12ed6/hls-p/ingest_874_720p/index.m3u8
 #https://iptvhit.live/tanjungselamat/alasi/panga/288
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvone_small1.png" group-title="INDONESIA",TV ONE
 https://vcdnjt.useetv.com/joss/15/tvone/chunklist_w654176452_b894100_sleng.m3u8?enc=DQtgqCUfAnld0z8znQDBRg&exp=1584927292
