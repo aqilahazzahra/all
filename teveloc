@@ -19,18 +19,18 @@ https://iptvhit.live/tanjungselamat/alasi/panga/287
 #https://vcdnjt.useetv.com/joss/15/indosiar/chunklist_w905911246_b894100_sleng.m3u
 https://vcdnjt.useetv.com/joss/15/indosiar/chunklist_w1051935008_b894100_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_small1.png" group-title="INDONESIA",INDOSIAR+
-#https://iptvhit.live/tanjungselamat/alasi/panga/277
-https://etslive-2-vidio-com.akamaized.net/exp=1585839031~acl=/hls-p/ingest_205_*/*~hmac=1b73d4161999ff42e19966a7608cf21d46b0e44120814060fb01abf3495d6f87/hls-p/ingest_205_720p/index.m3u8
+https://iptvhit.live/tanjungselamat/alasi/panga/277
+#https://etslive-2-vidio-com.akamaized.net/exp=1585839031~acl=/hls-p/ingest_205_*/*~hmac=1b73d4161999ff42e19966a7608cf21d46b0e44120814060fb01abf3495d6f87/hls-p/ingest_205_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png" group-title="INDONESIA",SCTV
 https://vcdnjt.useetv.com/joss/15/sctv/chunklist_w1719443711_b1344100_sleng.m3u8?enc=0N5C6Juxg8p-e8bgcdk2MQ&exp=1584926787
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png" group-title="INDONESIA",SCTV+
-https://etslive-2-vidio-com.akamaized.net/exp=1585839020~acl=/hls-p/ingest_204_*/*~hmac=c38c8f0f2ff69f231d50960aeb76d149cb58f69bb74945ff82233b43b7d4153f/hls-p/ingest_204_720p/index.m3u8
-#https://iptvhit.live/tanjungselamat/alasi/panga/275
+#https://etslive-2-vidio-com.akamaized.net/exp=1585839020~acl=/hls-p/ingest_204_*/*~hmac=c38c8f0f2ff69f231d50960aeb76d149cb58f69bb74945ff82233b43b7d4153f/hls-p/ingest_204_720p/index.m3u8
+https://iptvhit.live/tanjungselamat/alasi/panga/275
 #EXTINF:0 tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png" group-title="INDONESIA",TRANS 7
 https://vcdnjt.useetv.com/joss/15/trans7/chunklist_w310572254_b1344100_sleng.m3u8?enc=hn3RkAP5sUZjsy2_wyXHrw&exp=1584926789
 #EXTINF:0 tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png" group-title="INDONESIA",TRANS 7+
-https://etslive-2-vidio-com.akamaized.net/exp=1585839017~acl=/hls-p/ingest_734_*/*~hmac=b258131f506e09743603ad6323f04daae7154343047ce2d31e4e7b35d2bf9192/hls-p/ingest_734_720p/index.m3u8#https://iptvhit.live/tanjungselamat/alasi/panga/276
-#https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1144427985_b384000_sleng.m3u8
+#https://etslive-2-vidio-com.akamaized.net/exp=1585839017~acl=/hls-p/ingest_734_*/*~hmac=b258131f506e09743603ad6323f04daae7154343047ce2d31e4e7b35d2bf9192/hls-p/ingest_734_720p/index.m3u8#https://iptvhit.live/tanjungselamat/alasi/panga/276
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1144427985_b384000_sleng.m3u8
 #EXTINF:0 tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png" group-title="INDONESIA",TRANS 7 HD
 #https://video.detik.com/trans7/smil:trans7.smil/chunklist_w140890010_b384000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_small1.png" group-title="INDONESIA",NET TV HD
@@ -55,8 +55,8 @@ https://vcdnjt.useetv.com/joss/15/kompastv/chunklist_w1736125547_b894100_sleng.m
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kompastv_small.png" group-title="INDONESIA",KOMPAS TV
 http://210.210.155.35/session/69927436-1aa3-11ea-a103-acecbc14f551/qwr9ew/s/s104/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kompastv_small.png" group-title="INDONESIA",KOMPAS TV+
-https://etslive-2-vidio-com.akamaized.net/exp=1585839045~acl=/hls-p/ingest_874_*/*~hmac=9de40fe182f07e61caf1174b0cfd28450c9d37c0b638d70b65769370c5ca0c3b/hls-p/ingest_874_720p/index.m3u8
-#https://iptvhit.live/tanjungselamat/alasi/panga/288
+#https://etslive-2-vidio-com.akamaized.net/exp=1585839045~acl=/hls-p/ingest_874_*/*~hmac=9de40fe182f07e61caf1174b0cfd28450c9d37c0b638d70b65769370c5ca0c3b/hls-p/ingest_874_720p/index.m3u8
+https://iptvhit.live/tanjungselamat/alasi/panga/288
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvone_small1.png" group-title="INDONESIA",TV ONE
 https://vcdnjt.useetv.com/joss/15/tvone/chunklist_w654176452_b894100_sleng.m3u8?enc=DQtgqCUfAnld0z8znQDBRg&exp=1584927292
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvone_small1.png" group-title="INDONESIA",TV ONE+
@@ -107,7 +107,9 @@ https://livetvhooq.akamaized.net/b1b6d552c80f4ef78bd4c10bfb32268d/eu-central-1/5
 ##########info owner##########
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/t4DdzdyV/wuhan.jpg" group-title="INFO OWNER",DOC - LOCKDOWN WUHAN
-https://www.googleapis.com/drive/v3/files/1_OUHR4cIytu50KXdBQpEOwjxq8Xrpdhv?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
+https://www.googleapis.com/drive/v3/files/1wG_Of2vUHjt5cYo3I6HmNBPAkSN9u-14?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
+
+#https://www.googleapis.com/drive/v3/files/1_OUHR4cIytu50KXdBQpEOwjxq8Xrpdhv?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PqXrx9y3/tvpeduli.jpg" group-title="INFO OWNER",SEPUTAR PAREPARE
 https://r3---sn-2uuxa3vh-02bz.googlevideo.com/videoplayback?expire=1582271592&ei=CDhPXveXA7iDsfIPjdKH4Ao&ip=192.126.204.139&id=o-AKLET_2T2ozp7nlR2SvoiWOvCrpclVl9irAR0ccULocP&itag=18&source=youtube&requiressl=yes&vprv=1&mime=video%2Fmp4&gir=yes&clen=19595744&ratebypass=yes&dur=251.936&lmt=1552705624515656&fvip=3&fexp=23842630&c=WEB&txp=2211222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=ALgxI2wwRQIhAKAbZxuWO-9Y4yuUwRtlrqXRb-G0WfvV06O_N7TZYiVYAiBq5_Xzg_JmDu7MpH-zTpub8l3xKTB43Se6ZK4hHPw_CQ%3D%3D&type=video%25252Fmp4%25253B%252Bcodecs%25253D%252522avc1.42001E%25252C%252Bmp4a.40.2%252522&quality=medium&title=Kota%2BPare-Pare%2BTahun%2B2019&cms_redirect=yes&mip=36.80.18.174&mm=31&mn=sn-2uuxa3vh-02bz&ms=au&mt=1582249892&mv=m&mvi=2&pl=20&lsparams=mip,mm,mn,ms,mv,mvi,pl&lsig=ABSNjpQwRgIhAK29fsLMaSK93YxLWAPHZogrf2QhYGc8yltGl29zK_seAiEAs8Six64ldSuHccnyEtCe2AsGlS2YrxhiS5pTA5JhjHA%3D
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PqXrx9y3/tvpeduli.jpg" group-title="INFO OWNER",SEPUTAR PAREPARE 2
